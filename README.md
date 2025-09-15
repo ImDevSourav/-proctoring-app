@@ -1,1 +1,1 @@
-# -proctoring-app
+# proctoring-app
